@@ -1,4 +1,0 @@
-C:/PCS2024_Exercises/Esercitazione_1_IO/Exercise1/Debug/CMakeFiles/SumValues.dir
-C:/PCS2024_Exercises/Esercitazione_1_IO/Exercise1/Debug/CMakeFiles/RIPASSO.dir
-C:/PCS2024_Exercises/Esercitazione_1_IO/Exercise1/Debug/CMakeFiles/edit_cache.dir
-C:/PCS2024_Exercises/Esercitazione_1_IO/Exercise1/Debug/CMakeFiles/rebuild_cache.dir
